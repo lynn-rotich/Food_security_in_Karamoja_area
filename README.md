@@ -90,3 +90,12 @@ Build an interactive dashboard (e.g., in Tableau or Power BI) that displays yiel
 Use the maps to highlight areas with zero or low yields for NGO decision-making.
 
 If possible, acquire additional years of crop yield data to improve trend analysis and reduce sparsity.
+
+
+
+
+## Tableau Dashboard
+Explore the interactive dashboard on [Tableau Public](https://public.tableau.com/app/profile/prince.obiero/viz/FixingKaramojafoodinsecurityissues/Dashbordshowingareascultivatedandthereyield?publish=yes).
+
+![Dashboard Preview](images/dashboard.png)
+
