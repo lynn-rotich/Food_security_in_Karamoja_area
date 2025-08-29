@@ -203,5 +203,5 @@ Sustainability & Exit Plan
 ## Tableau Dashboard
 Explore the interactive dashboard on [Tableau Public](Tableau DASSHBORD.PNG).
 
-! [Dashboard Preview](Tableau DASSHBORD.png)
+![Dashboard Preview](Tableauimage.png)
 
