@@ -97,5 +97,5 @@ If possible, acquire additional years of crop yield data to improve trend analys
 ## Tableau Dashboard
 Explore the interactive dashboard on [Tableau Public](Tableau DASSHBORD.PNG).
 
-![Dashboard Preview](Tableau DASSHBORD.PNG)
+![Dashboard Preview](Tableau DASSHBORD.png)
 
