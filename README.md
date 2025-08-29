@@ -95,7 +95,7 @@ If possible, acquire additional years of crop yield data to improve trend analys
 
 
 ## Tableau Dashboard
-Explore the interactive dashboard on [Tableau Public](https://public.tableau.com/app/profile/prince.obiero/viz/FixingKaramojafoodinsecurityissues/Dashbordshowingareascultivatedandthereyield?publish=yes).
+Explore the interactive dashboard on [Tableau Public](Tableau DASSHBORD.PNG).
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](Tableau DASSHBORD.PNG)
 
