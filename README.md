@@ -1,6 +1,6 @@
-# Food-security-in-karamoja-area-
-It visualizes karamoja area of Uganda knowing it is the most food insecure area to give NGO insight on which areas are the most needy so that they don't miss there target
+# Food Security in Karamoja area
 
+The visualization focuses on the Karamoja region of Uganda, the most food-insecure area in the country, providing NGOs with insights into the most vulnerable areas to ensure that interventions are accurately targeted and effective.
 
 
 ## Food Security Monitoring in Karamoja
@@ -85,13 +85,13 @@ The cleaned dataset can still provide valuable visual insights into where produc
 District and sub-county geospatial joins are functional, making it possible to display results in a mapping tool.
 
 Karamoja is sorghum dependent if sorghum fails due to drought ,pest or some other reason the food security will be compromised
-Even though sorghum production in kg is higher than that of maize there is growing concern about its yield per hectares this forcing community to allocate large lands for sorghum cultivation and neglecting other like maize which are doing well on small pieces of land
+Even though sorghum production in kg is higher than that of maize there is growing concern about its yield per hectares. This forces the community to allocate large lands for sorghum cultivation and neglects other like maize which are doing well on small pieces of land.
 
-District like Aibim and morroto are underperforming  both having very low yield production and very low crop production yet at the same time they have low population
+Districts like Abim and moroto are underperforming both having very low yield production and very low crop production yet at the same time they have low population.
 
-Areas with high cultivation area dose not necessarily suggest higher crop production this can be seen in districts like Napak and Kabong this because the corelation between crop area and crop yield are not strong
+Areas with high cultivation area do not necessarily suggest higher crop production which can be seen in districts like Napak and Kaabong because the correlation between crop area and crop yield are not strong.
 
-Low correlation between population and yield highlight the risk of hidden food insecurity hotspot ,some densely populated district (e.g Kabong)may be at high risk even if yield was average
+Low correlation between population and yield highlight the risk of hidden food insecurity hotspot ,some densely populated districts (e.g Kaabong)may be at high risk even if yield was average.
 
 # Recommendations for NGOs
 Diversify Beyond Sorghum
