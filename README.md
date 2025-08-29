@@ -1,9 +1,6 @@
 # Food-security-in-karamoja-area-
 It visualizes karamoja area of Uganda knowing it is the most food insecure area to give NGO insight on which areas are the most needy so that they don't miss there target
-! Project Report
 
-You can view our full project report here:  
-[Google Doc Link](https://docs.google.com/document/d/1euVAsRmF__Y5HhQrDEgSGU4-59-kBV0gpekxJH1IojM/edit?usp=sharing)
 
 
 ## Food Security Monitoring in Karamoja
@@ -205,6 +202,11 @@ Sustainability & Exit Plan
 
 
 ## Tableau Dashboard
+
+! Project Report
+
+You can view our full project report here:  
+[Google Doc Link](https://docs.google.com/document/d/1euVAsRmF__Y5HhQrDEgSGU4-59-kBV0gpekxJH1IojM/edit?usp=sharing)
 Explore the interactive dashboard on [Tableau Public](Tableau DASSHBORD.PNG).
 
 ![Dashboard Preview](Tableauimage.png)
