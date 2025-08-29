@@ -207,7 +207,7 @@ Sustainability & Exit Plan
 
 You can view our full project report here:  
 [Google Doc Link](https://docs.google.com/document/d/1euVAsRmF__Y5HhQrDEgSGU4-59-kBV0gpekxJH1IojM/edit?usp=sharing)
-Explore the interactive dashboard on [Tableau Public](Tableau DASSHBORD.PNG).
+Explore the interactive dashboard on [Tableau Public](https://public.tableau.com/app/profile/lynn.rotich/viz/Group_9_Tableau_Workbook_17564945353750/RelationshipofCropGrowingAreaToTheTotalCropYield?publish=yes)(Tableau DASSHBORD.PNG).
 
 ![Dashboard Preview](Tableauimage.png)
 
